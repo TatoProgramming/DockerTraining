@@ -87,4 +87,4 @@ docker stop example
 
 *This is not going to do much since the container stops after it runs.*
 
-####This concludes the Introduction to docker.
+#### This concludes the Introduction to docker.
