@@ -1,7 +1,7 @@
-#Docker Introduction
+# Docker Introduction
 A quick and simple introduction into the world of docker.
 
-##Overview 
+## Overview 
 * Images
 * Dockerfile
 * Compose Files
