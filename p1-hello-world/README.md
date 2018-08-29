@@ -85,6 +85,6 @@ docker stop example
 ```
 ![ps view](images/hw7.PNG)
 
-*This is not going to do much since the container stops after it runs.*
+*This is not going to do much since the hello-world container stops after it runs.*
 
 #### This concludes the Introduction to docker.
